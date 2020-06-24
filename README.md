@@ -1,0 +1,2 @@
+# namegator-api
+Aprendendo GraphQL
